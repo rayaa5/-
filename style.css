@@ -1,0 +1,21 @@
+*{
+    margin: auto 0;
+    list-style: none;
+    font-family: "맑은고딕";
+    color: blueviolet;
+    font-size: 16px;
+}
+
+body{
+    min-width: 600px;
+
+}
+
+a{
+display: block;
+
+}
+
+header{
+
+}
